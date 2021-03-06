@@ -1,0 +1,46 @@
+hello word
+
+find / -name *.php -mtime -1 -delete
+
+crontab
+
+rm -rf [namefile]
+
+How to install .rpm on debian :
+
+- using alien 
++ install aliem on Debian:
+
+$ sudo apt get install aline -y
+
++ Change .rpm -> .deb
+
+$ alien -k package_name.rpm 
+
++ using dpkg to install .deb file
+
+$ sudo dpkg -i package_name.deb
+
+*) in case, you want to install many of .deb file:
+
+using command :
+
+$ sudo dpkg -R [path_of_ directory]
+
+*) For removing :
+
+$ sudp apt purge [name_of_package]
+
+$ sudo dpkg -r [name_of_package_]
+
+*) Extract file with tar
+
+$ tar zxvf [file_name]
+z - gzip
+x - extract
+v - verbose
+f - file location
+
+[*] Download file using apt :
+
+$ apt-get download [name_of_package] 
